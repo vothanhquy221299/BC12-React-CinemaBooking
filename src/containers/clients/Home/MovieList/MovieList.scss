@@ -1,0 +1,15 @@
+.movieList{
+    p{
+      font-size: 15px;
+    }
+    span:hover:first-child{
+      font-size: 25px;
+      color: red;
+      transition: all 0.5s;
+    }
+    span:hover:last-child{
+        font-size: 25px;
+        color: red;
+        transition: all 0.5s;
+      }
+}
